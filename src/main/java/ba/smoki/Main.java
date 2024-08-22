@@ -1,0 +1,8 @@
+package ba.smoki;
+
+
+public class Main {
+    public static void main(String[] args) {
+
+    }
+}
